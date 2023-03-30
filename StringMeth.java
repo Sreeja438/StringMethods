@@ -15,3 +15,19 @@ public class StringMeth {
     }
     
 }
+
+          OUTPUT
+     
+ 3
+The number is  3
+5
+The number is  5
+7
+The number is  7
+9
+The number is  9
+10
+The number is  10
+sreeja
+PS C:\Users\Lenovo\Downloads\java> 
+
